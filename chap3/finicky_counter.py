@@ -12,4 +12,4 @@ while True:
     continue
   print(count)
 
-input("\n\nPress the enter key to exit")  
+input("\n\nPress the enter key to exit§")
